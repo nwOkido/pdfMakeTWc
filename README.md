@@ -1,6 +1,5 @@
 # pdfMakeTWc
-Create pdf's with TWc using pdfmake.js
-To make it work in Tiddlywiki classic you need 2 plugins.
+> Create pdf's from your TWc content with the pdfmake.js library, info about the library can be found here: http://pdfmake.org/#/
 
 ## Plugins
 1. pdfMakeTWc-Plugin.js, this provides the pdfmake.js code.
